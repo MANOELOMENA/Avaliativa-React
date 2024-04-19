@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+body{ 
+    background-image: url('../../images/bg-intro-desktop.png');
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: cover;
+    background-color: lightcoral;
+}
